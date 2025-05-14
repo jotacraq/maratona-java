@@ -5,7 +5,7 @@
 - Dados Primitivos
 - Operadores (logicos, aritmeticos e relacionais)
 - Estruturas Condicionais
+- Estruturas de Repeticao
 
-Obs: Ate o presente momento do salvamento manual nao sinto nenhuma dificuldade, por ja ter visto em outras linguagens os mesmos fundamentos, mas bastante ansioso para os proximos passos mediante situacoes mais dificeis, fica mais abstrato este comentario por nao ter nenhuma duvida ou problema a registrar, conforme o avanco acredito que me surjam mais duvidas que serao comentadas aqui!
-
-#### *Salvamento Manual de Ultimo Estudo: 13/05/2025 - 15:39*
+Obs: Nenhuma dificuldade ainda visivel, por ter familiaridade com os principios basicos, ansioso para desafios maiores na linguagem!
+#### *Salvamento Manual de Ultimo Estudo: 14/05/2025 - 14:18*
