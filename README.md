@@ -9,5 +9,5 @@
 - Arrays
 - Arrays Multidimensionais
 
-Obs: Comecando a por a mao na massa em arrays, senti uma leve dificuldade em arrays multidimensionais mas a explicacao do DevDojo nunca deixa a desejar, e realmente criando diagramas no papel facilita muito o entendimento e o aprendizado, ansioso por mais!
-#### *Salvamento Manual de Ultimo Estudo: 16/05/2025 - 17:20*
+Obs: Arrays Multidimensionais foi algo bastante interessante, deu pra entender bastante da logica usando debug, algo que parece simples mas ajuda demais a entender como funciona o codigo, ate quando fiquei mais travado em foreach, por conta sintaxe simples e visivelmente ambigua pros leigos.
+#### *Salvamento Manual de Ultimo Estudo: 19/05/2025 - 18:15*
