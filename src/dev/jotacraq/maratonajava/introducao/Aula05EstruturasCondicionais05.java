@@ -1,4 +1,4 @@
-package dev.jotacraq.javandopcrl;
+package dev.jotacraq.maratonajava.introducao;
 
 public class Aula05EstruturasCondicionais05 {
     public static void main(String[] args) {

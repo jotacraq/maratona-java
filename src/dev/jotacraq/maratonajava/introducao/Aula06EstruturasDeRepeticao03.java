@@ -1,4 +1,4 @@
-package dev.jotacraq.javandopcrl;
+package dev.jotacraq.maratonajava.introducao;
 
 public class Aula06EstruturasDeRepeticao03 {
     //Imprima os primeiros 25 numeros de um dado valor. Por exemplo, 50

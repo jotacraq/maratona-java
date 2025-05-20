@@ -1,4 +1,4 @@
-package dev.jotacraq.javandopcrl;
+package dev.jotacraq.maratonajava.introducao;
 
 public class Aula02PrimitiveDatas {
     public static void main(String[] args) {
