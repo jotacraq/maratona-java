@@ -10,5 +10,5 @@
 - Arrays Multidimensionais
 - Orientacao a Objetos
 
-Obs: Bastante animado para rever meu nemesis na epoca do tecnico, tive uma das maiores dores de cabeca em relacao a orientacao a objetos e essa parte quase me fez desistir de java totalmente na epoca, mas agora depois de um pouco mais de experiencia tem sido mais claro entender e compreender o funcionamento, ansioso por mais! 
-#### *Salvamento Manual de Ultimo Estudo: 19/05/2025 - 22:40*
+Obs: Agora comecou a ficar um pouco mais confuso, mas ta dando pra levar ate entao, sao termos que vou recordando conforme a pratica, vou dar uma olhada mais cotidiana nos termos para fixacao, como public void, public int, e suas praticas.
+#### *Salvamento Manual de Ultimo Estudo: 20/05/2025 - 19:32*

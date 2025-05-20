@@ -14,8 +14,8 @@ public class CarroTest01 {
         carro2.modelo = "1.4 EcoSport";
         carro2.ano = 2015;
 
-        System.out.println("Carro: " + carro1.nome + " | Modelo: " + carro1.modelo + " | Ano: " + carro1.ano);
-        System.out.println("Carro: " + carro2.nome + " | Modelo: " + carro2.modelo + " | Ano: " + carro2.ano);
+        System.out.println("Carro 1: " + carro1.nome + " | Modelo: " + carro1.modelo + " | Ano: " + carro1.ano);
+        System.out.println("Carro 2: " + carro2.nome + " | Modelo: " + carro2.modelo + " | Ano: " + carro2.ano);
 
     }
 }
