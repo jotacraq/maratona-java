@@ -10,5 +10,5 @@
 - Arrays Multidimensionais
 - Orientacao a Objetos
 
-Obs: Agora comecou a ficar um pouco mais confuso, mas ta dando pra levar ate entao, sao termos que vou recordando conforme a pratica, vou dar uma olhada mais cotidiana nos termos para fixacao, como public void, public int, e suas praticas.
-#### *Salvamento Manual de Ultimo Estudo: 21/05/2025 - 19:08*
+Obs: Ainda confuso, mas ta dando pra levar, to pegando mais a fundo nas referencias pois seria algo que merece sua devida atencao, pois pode causa confusao posteriormente, pegando esse fundamento acredito que seja mais tranquilo de compreender o todo, to anotando tudo no obsidian e se ficar da forma que eu to esperando que fique vou soltar ele junto do repositorio, Marcha!
+#### *Salvamento Manual de Ultimo Estudo: 22/05/2025 - 17:38*
