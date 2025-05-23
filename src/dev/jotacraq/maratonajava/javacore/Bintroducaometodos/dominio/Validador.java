@@ -18,11 +18,12 @@ public class Validador {
         }
     }
 
-    public int calculadoraX2(int[] arr) {
-        for (int i = 0; i < arr.length; i++) {
-            System.out.print(arr[i] * 2 + " | ");
+    public int calculadoraX2VarArgs(int... arr) {
+        for (int num : arr) {
+            System.out.print(num * 2 + " | ");
         }
         return 0;
     }
+
 
 }

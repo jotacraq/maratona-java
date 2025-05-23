@@ -8,7 +8,6 @@ public class ValidadorTest01 {
         boolean validacao = validador.calculadoraDePrimos(12);
         System.out.println(validacao);
 
-        String duasvezes = String.valueOf(validador.calculadoraX2(new int[] {1, 2, 3, 4, 5, 6}));
-        System.out.println(duasvezes);
+        validador.calculadoraX2VarArgs(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
     }
 }
