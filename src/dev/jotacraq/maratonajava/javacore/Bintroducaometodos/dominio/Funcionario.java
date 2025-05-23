@@ -12,10 +12,10 @@ package dev.jotacraq.maratonajava.javacore.Bintroducaometodos.dominio;
 
 
 public class Funcionario {
-    public String nome;
-    public int idade;
-    public double[] salarios;
-
+    private String nome;
+    private int idade;
+    private double[] salarios;
+    private double media = 0;
 
     public void imprime() {
         System.out.print(this.nome + " | ");
@@ -23,21 +23,48 @@ public class Funcionario {
         if (salarios == null) {
             return;
         }
-            for (double salarios : salarios) {
-                System.out.println(salarios + " | ");
-            }
+        for (double salarios : salarios) {
+            System.out.println(salarios + " | ");
+        }
     }
 
-    public void mediaFuncionarios() {
+    public void imprimeMediaSalario() {
         if (salarios == null) {
             return;
         }
-        double media = 0;
-            for (double salario : salarios) {
-                media += salario;
-            }
-            media /= salarios.length;
-        System.out.println("Media Total: " + media);
+
+        for (double salario : salarios) {
+            media += salario;
+        }
+        media /= salarios.length;
     }
 
+    public String getNome() {
+        return nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public double getMedia() {
+        imprimeMediaSalario();
+        return media;
+    }
+
+    public double[] getSalarios() {
+        return salarios;
+    }
+
+    public void setSalarios(double[] salarios) {
+        this.salarios = salarios;
+    }
+
+    public int getIdade() {
+        return idade;
+    }
+
+    public void setIdade(int idade) {
+        this.idade = idade;
+    }
 }
