@@ -10,5 +10,5 @@
 - Arrays Multidimensionais
 - Orientacao a Objetos
 
-Obs: Ainda confuso, mas ta dando pra levar, to pegando mais a fundo nas referencias pois seria algo que merece sua devida atencao, pois pode causa confusao posteriormente, pegando esse fundamento acredito que seja mais tranquilo de compreender o todo, to anotando tudo no obsidian e se ficar da forma que eu to esperando que fique vou soltar ele junto do repositorio, Marcha!
-#### *Salvamento Manual de Ultimo Estudo: 22/05/2025 - 17:38*
+Obs: Realizei o Exercicio de Orientacao a Objetos do DevDojo, e anotei tudo no Obsidian, posteriormente vou soltar em PDF quando finalizar Orientacao a Objetos.
+#### *Salvamento Manual de Ultimo Estudo: 23/05/2025 - 03:02*
