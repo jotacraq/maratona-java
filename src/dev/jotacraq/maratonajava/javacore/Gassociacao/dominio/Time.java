@@ -22,6 +22,7 @@ public class Time {
 
     }
 
+
     public Jogador[] getJogadores() {
         return jogadores;
     }

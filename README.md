@@ -10,5 +10,5 @@
 - Arrays Multidimensionais
 - Orientacao a Objetos
 
-Obs: Se eu falar sobre tudo que eu vi desde o ultimo save vou endoidar, entao vou deixar para falar caso eu faca algum exercicio grande abrangendo todo o tema.
-#### *Salvamento Manual de Ultimo Estudo: 27/05/2025 - 03:11*
+Obs: Fiz um desafio bastante desafiador sobre associacoes, em breve vou soltar ele e o anterior que anotei no Obsidian dentro do github, com anotacoes, observacoes e o codigo (o codigo tambem esta em javacore.Gassociacao.exercises).
+#### *Salvamento Manual de Ultimo Estudo: 27/05/2025 - 06:18*
