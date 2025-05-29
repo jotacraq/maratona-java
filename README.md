@@ -10,5 +10,5 @@
 - Arrays Multidimensionais
 - Orientacao a Objetos
 
-Obs: Aprendi sobre heranca, mas ainda ta meio branco para mim, parece simples demais a sua concepcao, mas ficou confuso na parte de seus inicializadores, vou fazer alguns exercicios praticos para pegar melhor!
-#### *Salvamento Manual de Ultimo Estudo: 29/05/2025 - 03:31*
+Obs: Vi somente uma aula e vou dormir, toString() me parece bem de boa e intuitivo, fiquei desde o ultimo commit vendo sobre herancas e peguei melhor agora.
+#### *Salvamento Manual de Ultimo Estudo: 29/05/2025 - 08:22*
