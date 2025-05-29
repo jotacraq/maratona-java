@@ -10,5 +10,5 @@
 - Arrays Multidimensionais
 - Orientacao a Objetos
 
-Obs: Fiz um desafio bastante desafiador sobre associacoes, em breve vou soltar ele e o anterior que anotei no Obsidian dentro do github, com anotacoes, observacoes e o codigo (o codigo tambem esta em javacore.Gassociacao.exercises).
-#### *Salvamento Manual de Ultimo Estudo: 27/05/2025 - 06:18*
+Obs: Aprendi sobre heranca, mas ainda ta meio branco para mim, parece simples demais a sua concepcao, mas ficou confuso na parte de seus inicializadores, vou fazer alguns exercicios praticos para pegar melhor!
+#### *Salvamento Manual de Ultimo Estudo: 29/05/2025 - 03:31*
