@@ -10,5 +10,5 @@
 - Arrays Multidimensionais
 - Orientacao a Objetos
 
-Obs: Vi somente uma aula e vou dormir, toString() me parece bem de boa e intuitivo, fiquei desde o ultimo commit vendo sobre herancas e peguei melhor agora.
-#### *Salvamento Manual de Ultimo Estudo: 29/05/2025 - 08:22*
+Obs: Finalmente terminei Orientacao a Objetos, agora vou meter marcha nos exercicios pra fixar, mas terminei com chave de ouro, porque nao entendi PORRA NENHUMA de polimorfismo, n sei pq embalei dps de ver classes abstratas e interfaces, mas n entendi nada, vou pega novamente em todos os lugares possiveis e me rechear desse conteudo e de exercicios.
+#### *Salvamento Manual de Ultimo Estudo: 03/06/2025 - 13:57*
