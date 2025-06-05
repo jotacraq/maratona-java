@@ -1,14 +1,53 @@
-## Maratona Java - Estudos
+# 🏃‍♂️ Maratona Java - Estudos com DevDojo 🚀
 
-### Conteudos Abordados no Projeto (Ate o presente momento):
-- System.out.println
-- Dados Primitivos
-- Operadores (logicos, aritmeticos e relacionais)
-- Estruturas Condicionais
-- Estruturas de Repeticao
-- Arrays
-- Arrays Multidimensionais
-- Orientacao a Objetos
+Este repositório acompanha meu progresso nos estudos da **playlist Maratona Java** do [DevDojo](https://www.youtube.com/@DevDojoBrasil). Aqui eu salvo os conteúdos estudados, avanços e reflexões ao longo da jornada.
 
-Obs: Finalmente terminei Orientacao a Objetos, agora vou meter marcha nos exercicios pra fixar, mas terminei com chave de ouro, porque nao entendi PORRA NENHUMA de polimorfismo, n sei pq embalei dps de ver classes abstratas e interfaces, mas n entendi nada, vou pega novamente em todos os lugares possiveis e me rechear desse conteudo e de exercicios.
-#### *Salvamento Manual de Ultimo Estudo: 03/06/2025 - 13:57*
+---
+
+## 📚 Conteúdos Abordados (até o momento)
+
+- `System.out.println`
+- **Tipos Primitivos**
+- **Operadores**  
+  (lógicos, aritméticos e relacionais)
+- **Estruturas Condicionais**
+- **Estruturas de Repetição**
+- **Arrays**
+- **Arrays Multidimensionais**
+- **Orientação a Objetos**
+    - Classes
+    - Métodos
+    - Construtores
+    - Modificadores de Acesso
+    - Encapsulamento
+    - Herança
+    - **Classes Abstratas**
+    - **Interfaces**
+    - ~~Polimorfismo~~ (🧠 ainda em processo de entendimento!)
+
+---
+
+## 💡 Observação Pessoal
+
+> Finalmente terminei **Orientação a Objetos**, agora vou **meter marcha nos exercícios** pra fixar!  
+> Terminei com **chave de ouro**, mas confesso:  
+> **Não entendi PORRA NENHUMA de polimorfismo** 😅  
+> Não sei por quê, mas **travei** nessa parte.  
+> Já classes abstratas e interfaces eu até peguei o jeito, mas polimorfismo me derrubou.  
+> Agora é correr atrás: **vou revisar em todos os lugares possíveis**, ver vídeos, artigos, documentações e **encher minha cabeça de exemplos e exercícios**!
+
+---
+
+## 💾 Salvamento Manual de Último Estudo
+
+📅 **Data**: 03/06/2025  
+🕐 **Hora**: 13:57
+
+---
+
+## ✅ Próximos Passos
+
+- Revisar **Polimorfismo**
+- Praticar com exercícios práticos e desafios
+- Fixar os conceitos de **OOP** com mais projetos
+- Continuar acompanhando os vídeos da playlist
